@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "create-vite": "^9.0.4"
+  },
+  "_npx": {
+    "packages": [
+      "create-vite@latest"
+    ]
+  }
+}
